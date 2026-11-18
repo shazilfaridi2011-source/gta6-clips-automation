@@ -1,0 +1,8 @@
+{
+  "approved_streamers": [
+    {
+      "name": "REPLACE_WITH_STREAMER_NAME",
+      "permission_reference": "REPLACE_WITH_PERMISSION_RECORD_ID"
+    }
+  ]
+}
